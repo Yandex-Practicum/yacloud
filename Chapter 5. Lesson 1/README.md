@@ -38,3 +38,4 @@ https://cloud.yandex.ru/events/84
 * [Типы масштабирования Instance Group​](https://cloud.yandex.ru/docs/compute/concepts/instance-groups/scale)
 * [Яндекс.Танк в Маркетплейсе​](https://cloud.yandex.ru/marketplace/products/f2ec3euo68vni32pl7aj)
 * [Документация terraform​](https://www.terraform.io/docs/providers/yandex/index.html)
+* [Документация Yandex.Cloud​](https://cloud.yandex.ru/docs)
